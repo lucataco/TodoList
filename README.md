@@ -1,8 +1,6 @@
 
 # TodoList
 
-![](images/readme.png)
-
 ## About
 Simple TodoList written in ReactJS using reactstrap
 
